@@ -381,8 +381,15 @@ nav.show div.icon-close {
     border-radius: 0.25rem;
 }
 
+#testimonials blockquote p {
+    position: relative;
+    text-indent: 1.875rem;
+}
+
 #testimonials blockquote p span {
     font: 700 3rem serif;
 
-    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
