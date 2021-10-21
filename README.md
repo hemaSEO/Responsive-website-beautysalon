@@ -8,13 +8,11 @@
   <img width="400"  src="Beautysalon/assets/md/Mobile.gif">
 </p>
 
-<br>
+## 📢 Visite o site
+  
+  [Beautysalon](https://robotsdeveloper.github.io/Beautysalon/).
 
-<p align="center">
-  <img alt="OriginSix" src=".github/preview.png" width="100%">
-</p>
-
-## 🚀 Tecnologias
+## 🤖 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
