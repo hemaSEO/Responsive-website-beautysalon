@@ -12,7 +12,7 @@
   
   [Beautysalon](https://robotsdeveloper.github.io/Beautysalon/).
 
-## 🤖 Tecnologias
+## 🧠 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -41,4 +41,4 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ---
 
-Feito com ♥ by Robotdeveloper
+Feito com ♥ by Robotdeveloper 🤖
