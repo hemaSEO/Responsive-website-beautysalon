@@ -45,14 +45,14 @@ html {
 }
 
 body {
-    font: 400 1rem 'DM Sans', sans-serif;
+    font: 400 1rem var(--body-font);
     color: var(--text-color);
     background: var(--body-color);
     -webkit-font-smoothing: antialiased; /*Deixar a fonte mais leve e fina*/
 }
 
 .title {
-    font: 700 1.875rem 'Poppins', sans-serif;
+    font: 700 var(--title-font-size) var(--title-font);
     color: var(--title-color);
     -webkit-font-smoothing: auto;
 }
@@ -65,7 +65,7 @@ body {
     align-items: center;
     padding: 0 2rem;
     border-radius: 0.25rem;
-    font: 500 1rem 'DM Sans', sans-serif;
+    font: 500 1rem var(--body-font);
     transition: background 0.3s;
 }
 
@@ -108,12 +108,12 @@ body {
     padding: calc(5rem + var(--header-height)) 0; /* 80px / 16px = 5rem; */
 }
 
-.section .subtitle {
-    font-size: var(--subtitle-font-size);
-}
-
 .section .title {
     margin-bottom: 1rem;
+}
+
+.section .subtitle {
+    font-size: var(--subtitle-font-size);
 }
 
 .section header {
@@ -151,7 +151,7 @@ body {
 
 /*====  LOGO ============================ */
 .logo {
-    font: 700 1.31rem 'Poppins', sans-serif; /* 21 px /16px = 1.31rem */
+    font: 700 1.31rem var(--title-font); /* 21 px /16px = 1.31rem */
     color: var(--title-color);
 }
 
@@ -183,7 +183,8 @@ nav ul li a {
     position: relative;
 }
 
-nav ul li a:hover {
+nav ul li a:hover,
+nav ul li a.active {
     color: var(--base-color);
 }
 
@@ -200,7 +201,8 @@ nav ul li a::after {
     transition: width 0.2s; /* segredo para fazer crescer */
 }
 
-nav ul li a:hover::after {
+nav ul li a:hover::after,
+nav ul li a.active::after {
     width: 100%; /* quando fizer o hover vai crescer em 100% */
 }
 
@@ -284,7 +286,7 @@ nav.show div.icon-close {
     width: 100%;
     background: var(--base-color-second);
     position: absolute;
-    top: -16.7%; /* 405 - 100% */
+    top: -16.8%; /* 405 - 100% */
     left: 16.7%; /* 68 - x  */
     z-index: 0;
 }
@@ -574,7 +576,7 @@ footer .social a:hover {
 
     nav .menu ul {
         display: flex;
-        gap: 2rem;
+        gap: 3rem;
     }
 
     nav .menu ul li a.title {
@@ -604,7 +606,7 @@ footer .social a:hover {
     }
 
     #home .image {
-        order: 1;
+        order: 1; /* só é possível porque a caixa é grid, poderia ser flex também */
     }
 
     #home .text {
