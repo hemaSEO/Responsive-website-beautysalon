@@ -33,7 +33,7 @@ Utilitários
 
 ## 💻 Projeto
 
-Beautysalon é uma página responsiva e contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer.
+Beautysalon foi uma aplicação prática do evento NLW TOGETHER, realizado pela [Rocketseat](https://github.com/rocketseat-education/nlw-06-origin), cujo qual participei.
 
 ## 🔖 Layout
 
