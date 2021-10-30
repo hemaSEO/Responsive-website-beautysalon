@@ -33,7 +33,7 @@ Utilitários
 
 ## 💻 Projeto
 
-Beautysalon foi uma aplicação prática do evento NLW TOGETHER, realizado pela [Rocketseat](https://github.com/rocketseat-education/nlw-06-origin), cujo qual participei.
+Beautysalon foi uma aplicação prática do evento NLW TOGETHER, realizado pela [Rocketseat](https://github.com/rocketseat-education/nlw-06-origin), cujo qual participei. O mesmo é responsivo para as diferentes resoluções.
 
 ## 🔖 Layout
 
