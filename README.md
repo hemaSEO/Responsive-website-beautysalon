@@ -10,7 +10,7 @@
 
 ## 📢 Visite o site
   
-  [Beautysalon](https://robotsdeveloper.github.io/Beautysalon/).
+  [Beautysalon](https://robotsdeveloper.github.io/Beautysalon/ target="_blank").
 
 ## 🧠 Tecnologias
 
