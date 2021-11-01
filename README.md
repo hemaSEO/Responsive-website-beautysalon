@@ -1,11 +1,11 @@
 # Beautysalon
 
 <p align="center">
-  <img width="600" src="Beautysalon/assets/md/Desktop.gif">
+  <img width="600" src="assets/md/Desktop.gif">
 </p>
 
 <p align="center">
-  <img width="400"  src="Beautysalon/assets/md/Mobile.gif">
+  <img width="400"  src="assets/md/Mobile.gif">
 </p>
 
 ## 📢 Visite o site
