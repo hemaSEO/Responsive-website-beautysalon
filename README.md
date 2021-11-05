@@ -25,12 +25,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 Bibliotecas
 
 - [Google Fonts](https://fonts.google.com/)
 - [SwipeJS](https://github.com/nolimits4web/Swiper)
 - [ScrollRevel](https://scrollrevealjs.org)
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 Utilitários
 
