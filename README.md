@@ -1,8 +1,9 @@
 # Beautysalon
 
-### Desktop
 
-<p align="center"  style="display: flex; align-items: flex-start; justify-content: center;">
+
+<p align="center">
+  ### Desktop
   <img width="600" src="assets/md/Desktop.gif">
 </p>
 
