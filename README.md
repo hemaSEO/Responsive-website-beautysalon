@@ -2,7 +2,7 @@
 
 ### Desktop
 
-<p align="center">
+<p align="center"  style="display: flex; align-items: flex-start; justify-content: center;">
   <img width="600" src="assets/md/Desktop.gif">
 </p>
 
