@@ -1,11 +1,12 @@
 # Beautysalon
 
 
+  ### Desktop
 
 <p align="center">
-  ### Desktop
   <img width="600" src="assets/md/Desktop.gif">
 </p>
+
 
 ### Mobile
 
