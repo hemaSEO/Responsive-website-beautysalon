@@ -384,6 +384,7 @@ nav.show div.icon-close {
 /*====  TESTIMONIALS ============================ */
 #testimonials {
     background: var(--card-color);
+    overflow-x: hidden;
 }
 
 #testimonials .container {
