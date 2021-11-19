@@ -1,12 +1,10 @@
 # Beautysalon
 
-
-  ### Desktop
+### Desktop
 
 <p align="center">
   <img width="600" src="assets/md/Desktop.gif">
 </p>
-
 
 ### Mobile
 
@@ -15,34 +13,35 @@
 </p>
 
 ## 📢 Visite o site
-  
-  [Beautysalon](https://robotsdeveloper.github.io/Responsive-page-beautysalon/).
+
+[Beautysalon](https://robotsdeveloper.github.io/Responsive-page-beautysalon/).
 
 ## 🧠 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- JavaScript
+-   HTML
+-   CSS
+-   JavaScript
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 Bibliotecas
 
-- [Google Fonts](https://fonts.google.com/)
-- [SwipeJS](https://github.com/nolimits4web/Swiper)
-- [ScrollRevel](https://scrollrevealjs.org)
+-   [Google Fonts](https://fonts.google.com/)
+-   [SwipeJS](https://github.com/nolimits4web/Swiper)
+-   [ScrollRevel](https://scrollrevealjs.org)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 Utilitários
 
-- [randomuser.me](https://randomuser.me/photos)
-- [IconMoon](https://icomoon.io/app/#/select)
+-   [randomuser.me](https://randomuser.me/photos)
+-   [IconMoon](https://icomoon.io/app/#/select)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## 💻 Projeto
 
 Beautysalon foi uma aplicação prática do evento NLW TOGETHER, realizado pela [Rocketseat](https://github.com/rocketseat-education/nlw-06-origin), cujo qual participei. O mesmo é responsivo para as diferentes resoluções.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## 🔖 Layout
