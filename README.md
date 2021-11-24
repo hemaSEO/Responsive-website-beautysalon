@@ -14,7 +14,7 @@
 
 ## 📢 Visite o site
 
-[Beautysalon](https://robotsdeveloper.github.io/Responsive-page-beautysalon/).
+[Beautysalon](https://lobinhodev.github.io/Responsive-page-beautysalon/).
 
 ## 🧠 Tecnologias
 
