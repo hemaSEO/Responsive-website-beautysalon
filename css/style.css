@@ -196,7 +196,7 @@ nav ul li a::after {
 
     position: absolute;
     left: 0;
-    bottom: -1.5rem;
+    bottom: -1rem;
 
     transition: width 0.2s; /* segredo para fazer crescer */
 }
